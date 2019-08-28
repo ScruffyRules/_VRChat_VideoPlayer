@@ -22,7 +22,7 @@ I'd recommend setting your [RenderTexture](https://docs.unity3d.com/2017.4/Docum
 * sRGB: Enabled
 * Clamp Mode: Repeat
 
-### Other
+### Stream Players
 This currently doesn't support Stream Players because they can only output to a texture slot not a RenderTexture
 
 ## For Avatar Creators
