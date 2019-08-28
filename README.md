@@ -13,6 +13,18 @@ I've provided a [zip package here](https://github.com/ScruffyRules/_VRChat_Video
 4. Set the function argument to `_VRChat_VideoPlayer`
 5. You're done!
 
+### Render Texture settings
+I'd recommend setting your [RenderTexture](https://docs.unity3d.com/2017.4/Documentation/Manual/class-RenderTexture.html) to these settings:
+* Width: 1280
+* Height: 720
+* Color Format: ARGB32
+* Depth Buffer: No Depth Buffer
+* sRGB: Enabled
+* Clamp Mode: Repeat
+
+### Other
+This currently doesn't support Stream Players because they can only output to a texture slot not a RenderTexture
+
 ## For Avatar Creators
 You'll have to use a shader that supports it.
 
