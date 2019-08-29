@@ -20,7 +20,7 @@ I'd recommend setting your [RenderTexture](https://docs.unity3d.com/2017.4/Docum
 * Color Format: ARGB32
 * Depth Buffer: No Depth Buffer
 * sRGB: Enabled
-* Clamp Mode: Repeat
+* Wrap Mode: Repeat
 
 ### Stream Players
 This currently doesn't support Stream Players because they can only output to a texture slot not a RenderTexture
