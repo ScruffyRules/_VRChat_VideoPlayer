@@ -1,6 +1,8 @@
 # _VRChat_VideoPlayer
 
 This is the readme/help for `_VRChat_VideoPlayer` texture  
+**This *isn't* a video player prefab**  
+If you want a video player prefab head over to [iwaSyncVideo](https://github.com/ziritsu/SyncVideoPlayer_iws) or try and use the one in the SDK  
 If you'd like help with this feel free to DM me on Discord (`ScruffyRules#0879`) or mention me in `#random-chat` in the Official VRChat Discord
 
 ## For World Creators
