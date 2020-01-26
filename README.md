@@ -31,7 +31,7 @@ This currently doesn't support Stream Players because they can only output to a 
 You'll have to use a shader that supports it.
 
 Supported Shaders:
-* Currently no one xd
+* Poiyomi's Paid Video Shader
 
 ## For Shader Developers
 **DO NOT** add a property for this name, it will override the RenderTexture.
